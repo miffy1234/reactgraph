@@ -1,2 +1,0 @@
-# reactgraph
-Created with CodeSandbox
